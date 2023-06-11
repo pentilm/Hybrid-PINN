@@ -16,3 +16,7 @@ You can run any of these files directly to see examples of the concepts discusse
 
 ```bash
 python epinn.py
+
+## License
+
+This project is licensed under the GPL License - see the LICENSE file for more details.
